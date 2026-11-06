@@ -1,0 +1,17 @@
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\bin\Debug\net10.0-windows\FormularioBienvenida.exe
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\bin\Debug\net10.0-windows\FormularioBienvenida.deps.json
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\bin\Debug\net10.0-windows\FormularioBienvenida.runtimeconfig.json
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\bin\Debug\net10.0-windows\FormularioBienvenida.dll
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\bin\Debug\net10.0-windows\FormularioBienvenida.pdb
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.Form1.resources
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.csproj.GenerateResource.cache
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.AssemblyInfo.cs
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.dll
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\refint\FormularioBienvenida.dll
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.pdb
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\FormularioBienvenida.genruntimeconfig.cache
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\ref\FormularioBienvenida.dll
+C:\Users\Luis\source\repos\FormularioBienvenida\FormularioBienvenida\obj\Debug\net10.0-windows\Formular.6FB9AA34.Up2Date

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Pr1MiPrimeraaAplicacion/Pr1MiPrimeraaAplicacion.csproj" />
+  <Project Path="Pr2FormularioBienvenida/Pr2FormularioBienvenida.csproj" />
+  <Project Path="Pr3ControlesBasicos/Pr3ControlesBasicos.csproj" />
+</Solution>
